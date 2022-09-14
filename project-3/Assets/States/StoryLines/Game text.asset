@@ -10,9 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9106a40fd31e6fe4f96c51f79f66caa9, type: 3}
-  m_Name: Introductionj
+  m_Name: Game text
   m_EditorClassIdentifier: 
-  storyText: You are gibus, an insecure little boy. Some bullies bullied you for
-    your only form of comfort, your hat. they knocked you out and know your hat is
-    gone.
-  nextStates: []
+  storyText: 'You wake up in a forest next to a town do you.
+
+    1. Go to the town
+    to see if they have seen your hat
+
+    2. Go into the dark forest and see if
+    you can find your hat around you'
+  nextStates:
+  - {fileID: 0}
+  - {fileID: 0}
