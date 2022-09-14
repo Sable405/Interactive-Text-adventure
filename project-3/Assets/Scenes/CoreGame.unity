@@ -295,7 +295,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 389, y: -371}
+  m_AnchoredPosition: {x: 408, y: -103}
   m_SizeDelta: {x: 294.3693, y: 167.1113}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &365825560
@@ -499,7 +499,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 747, y: -369}
+  m_AnchoredPosition: {x: 733, y: -103}
   m_SizeDelta: {x: 294.3693, y: 167.1113}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &714729068
@@ -1240,9 +1240,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: You are gibus, an insecure little boy. Some bullies bullied you for your
-    only form of comfort, your hat. they knocked you out and know your hat is gone.
-    You wake up in a forest next to a town. Do you. . .
+  m_text: ' You wake up in a forest next to a town. Do you. . .'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 03244cbd348c92b4fb2c6fc3d2593708, type: 2}
   m_sharedMaterial: {fileID: 2148271377617156047, guid: 03244cbd348c92b4fb2c6fc3d2593708, type: 2}
