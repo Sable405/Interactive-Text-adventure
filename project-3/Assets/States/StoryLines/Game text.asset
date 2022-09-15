@@ -14,11 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: 'You wake up in a forest next to a town do you.
 
+
     1. Go to the town
     to see if they have seen your hat
 
-    2. Go into the dark forest and see if
-    you can find your hat around you'
+
+    Push button to go into the dark forest
+    and see if you can find your hat around you'
   nextStates:
-  - {fileID: 0}
+  - {fileID: 11400000, guid: d5ae623d45c9707498447aa382204532, type: 2}
   - {fileID: 0}
