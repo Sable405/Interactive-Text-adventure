@@ -10,12 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9106a40fd31e6fe4f96c51f79f66caa9, type: 3}
-  m_Name: You Went Into Town
+  m_Name: Asked around the new town
   m_EditorClassIdentifier: 
-  storyText: "You went into town and see several people Do you\n\n1. Ask around and
-    gather information about your hat \n\n2. Take the village hostage and recruit
-    them to help find your hat\n\n3. Go to the store to gather supplies"
+  storyText: "You asked around and an old man said he saw a man wearing your hat
+    down the street\n\nDo you. . . \n\n1. Immediately attack by forcing gravity down
+    on his lower half and up on his upper hald tearing him apart\n\n2. Ask him nicely"
   nextStates:
-  - {fileID: 11400000, guid: 78568fdacbdf1e54db39542b1031170f, type: 2}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: d005aa552f4667144bcbd64e2b55a200, type: 2}
   - {fileID: 0}

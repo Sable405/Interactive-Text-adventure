@@ -10,8 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9106a40fd31e6fe4f96c51f79f66caa9, type: 3}
-  m_Name: New State
+  m_Name: Material
   m_EditorClassIdentifier: 
-  storyText: You gathered information about your hat and gathered that your bully
-    stole it anjd went into the next town over
-  nextStates: []
+  storyText: 'You gathered materials and prepared to go into the next town and recieved
+    a cool stick that can control gravity
+
+
+    1. Go into the next town and fly
+    using your stick
+
+
+    2. Kill everyone by turning the earths gravity to go out'
+  nextStates:
+  - {fileID: 11400000, guid: 98040d7db62164b42836edaa469474da, type: 2}
+  - {fileID: 0}

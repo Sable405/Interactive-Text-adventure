@@ -10,12 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9106a40fd31e6fe4f96c51f79f66caa9, type: 3}
-  m_Name: You Went Into Town
+  m_Name: Flew into town and prepared to confront him
   m_EditorClassIdentifier: 
-  storyText: "You went into town and see several people Do you\n\n1. Ask around and
-    gather information about your hat \n\n2. Take the village hostage and recruit
-    them to help find your hat\n\n3. Go to the store to gather supplies"
+  storyText: 'You flew into town and prepared to confront him
+
+
+    1. Ask around
+    to find him
+
+
+    2. /kill'
   nextStates:
-  - {fileID: 11400000, guid: 78568fdacbdf1e54db39542b1031170f, type: 2}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: e8aceeaab514dff4d997a26097a2a3e3, type: 2}
   - {fileID: 0}
