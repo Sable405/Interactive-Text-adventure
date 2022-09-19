@@ -10,16 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9106a40fd31e6fe4f96c51f79f66caa9, type: 3}
-  m_Name: Flew into town and prepared to confront him
+  m_Name: (El goblino)
   m_EditorClassIdentifier: 
-  storyText: 'You flew into town and prepared to confront him
+  storyText: 'You killed an entire nation and were given the name El Goblino after
+    you were given that name you killed everyone off to wonder the world by yourself
 
 
-    1. Ask around
-    to find him
-
-
-    2. /kill'
-  nextStates:
-  - {fileID: 11400000, guid: e8aceeaab514dff4d997a26097a2a3e3, type: 2}
-  - {fileID: 11400000, guid: 6577c496d6f0c5043b2d969ef06766c2, type: 2}
+    Return
+    and run into the forest'
+  nextStates: []

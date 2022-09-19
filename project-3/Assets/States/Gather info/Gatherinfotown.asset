@@ -30,5 +30,5 @@ MonoBehaviour:
     3. Head straight into the next town over'
   nextStates:
   - {fileID: 11400000, guid: 88599e49c2a54b2438d2fe252d8ae834, type: 2}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: a3a1afbe770e71d40ac957d494ca97d5, type: 2}
+  - {fileID: 11400000, guid: 6ce01c45159a8a447b1acc3dbed09ad7, type: 2}

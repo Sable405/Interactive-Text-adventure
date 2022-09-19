@@ -10,16 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9106a40fd31e6fe4f96c51f79f66caa9, type: 3}
-  m_Name: Flew into town and prepared to confront him
+  m_Name: Head nect town
   m_EditorClassIdentifier: 
-  storyText: 'You flew into town and prepared to confront him
-
-
-    1. Ask around
-    to find him
-
-
-    2. /kill'
+  storyText: "You headed into town and see a group of people in the middle of the
+    city. Do you . . \n\n1. Investigate\n\n2. Explode in the middle of the city"
   nextStates:
-  - {fileID: 11400000, guid: e8aceeaab514dff4d997a26097a2a3e3, type: 2}
-  - {fileID: 11400000, guid: 6577c496d6f0c5043b2d969ef06766c2, type: 2}
+  - {fileID: 11400000, guid: f74bbafc50a738f40ac3892dbb21026e, type: 2}
+  - {fileID: 11400000, guid: 85afb0ed2ab9edb4c91f85109c2e3aa7, type: 2}

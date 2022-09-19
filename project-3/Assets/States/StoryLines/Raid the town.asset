@@ -10,16 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9106a40fd31e6fe4f96c51f79f66caa9, type: 3}
-  m_Name: Flew into town and prepared to confront him
+  m_Name: Raid the town
   m_EditorClassIdentifier: 
-  storyText: 'You flew into town and prepared to confront him
+  storyText: 'You took the village hostage and they were scared of your presence
+    and raided the next town for the bully who had your hat and killed him and you
+    are free to roam this world with your gibus
 
 
-    1. Ask around
-    to find him
-
-
-    2. /kill'
-  nextStates:
-  - {fileID: 11400000, guid: e8aceeaab514dff4d997a26097a2a3e3, type: 2}
-  - {fileID: 11400000, guid: 6577c496d6f0c5043b2d969ef06766c2, type: 2}
+    Run into the forest with your
+    hat'
+  nextStates: []
