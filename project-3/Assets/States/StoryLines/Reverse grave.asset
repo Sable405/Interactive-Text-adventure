@@ -12,6 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9106a40fd31e6fe4f96c51f79f66caa9, type: 3}
   m_Name: Reverse grave
   m_EditorClassIdentifier: 
-  storyText: You killed everyone by reversing gravity and killed yourself run your
-    spirit into the forest.
+  storyText: '(Insane Ending)
+
+    You killed everyone by reversing gravity and killed
+    yourself run your spirit into the forest.'
   nextStates: []

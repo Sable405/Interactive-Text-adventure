@@ -12,6 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9106a40fd31e6fe4f96c51f79f66caa9, type: 3}
   m_Name: Reason
   m_EditorClassIdentifier: 
-  storyText: You reasoned with him and realized you two were secret lovers and lived
-    happily ever after and you two ran into the forest during your last days.
+  storyText: '(Good Ending)
+
+    You reasoned with him and realized you two were
+    secret lovers and lived happily ever after and you two ran into the forest during
+    your last days.'
   nextStates: []

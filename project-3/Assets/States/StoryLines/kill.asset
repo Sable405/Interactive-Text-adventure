@@ -12,6 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9106a40fd31e6fe4f96c51f79f66caa9, type: 3}
   m_Name: kill
   m_EditorClassIdentifier: 
-  storyText: Youn died click the run into forest button to run your spirit into the
-    forest
+  storyText: '(You Died)
+
+    You died click the run into forest button to run your
+    spirit into the forest'
   nextStates: []

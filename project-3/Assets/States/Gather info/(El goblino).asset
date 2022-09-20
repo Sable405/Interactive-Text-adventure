@@ -12,10 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9106a40fd31e6fe4f96c51f79f66caa9, type: 3}
   m_Name: (El goblino)
   m_EditorClassIdentifier: 
-  storyText: 'You killed an entire nation and were given the name El Goblino after
-    you were given that name you killed everyone off to wonder the world by yourself
+  storyText: '(Bad ending)
+
+    You killed an entire nation and were given the name
+    El Goblino after you were given that name you killed everyone off to wonder the
+    world by yourself
 
 
-    Return
-    and run into the forest'
+    Return and run into the forest'
   nextStates: []

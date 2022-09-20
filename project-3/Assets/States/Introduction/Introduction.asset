@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Introduction
   m_EditorClassIdentifier: 
   storyText: You are gibus, an insecure little boy. Some bullies bullied you for
-    your only form of comfort, your hat. they knocked you out and know your hat is
+    your only form of comfort, your hat. they knocked you out and now your hat is
     gone.
   nextStates:
   - {fileID: 0}

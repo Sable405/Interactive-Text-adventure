@@ -12,11 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9106a40fd31e6fe4f96c51f79f66caa9, type: 3}
   m_Name: Raid the town
   m_EditorClassIdentifier: 
-  storyText: 'You took the village hostage and they were scared of your presence
-    and raided the next town for the bully who had your hat and killed him and you
-    are free to roam this world with your gibus
+  storyText: '(Ok ending)
+
+    You took the village hostage and they were scared
+    of your presence and raided the next town for the bully who had your hat and
+    killed him and you are free to roam this world with your gibus
 
 
-    Run into the forest with your
-    hat'
+    Run into
+    the forest with your hat'
   nextStates: []

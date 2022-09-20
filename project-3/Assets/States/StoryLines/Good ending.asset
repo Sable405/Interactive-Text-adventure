@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9106a40fd31e6fe4f96c51f79f66caa9, type: 3}
   m_Name: Good ending
   m_EditorClassIdentifier: 
-  storyText: '"Good ending"
+  storyText: '(Good ending)
 
 
     You won by defeating him and destroying him and

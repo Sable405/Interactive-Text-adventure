@@ -12,6 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9106a40fd31e6fe4f96c51f79f66caa9, type: 3}
   m_Name: Fight hat
   m_EditorClassIdentifier: 
-  storyText: You fought with your hat and killed him, you cried until ypi starved
-    yourself to death. Bring your spirit and run into the forest.
+  storyText: '(Sad ending)
+
+    You fought with your hat and killed him, you cried
+    until you starved yourself to death. Bring your spirit and run into the forest.'
   nextStates: []

@@ -12,6 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9106a40fd31e6fe4f96c51f79f66caa9, type: 3}
   m_Name: Gather supplies
   m_EditorClassIdentifier: 
-  storyText: You tripped and fell on your way to gather supplies, return your spirit
-    back to the forest
+  storyText: '(You Died)
+
+    You tripped and fell on your way to gather supplies,
+    return your spirit back to the forest'
   nextStates: []

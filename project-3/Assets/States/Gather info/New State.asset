@@ -12,6 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9106a40fd31e6fe4f96c51f79f66caa9, type: 3}
   m_Name: New State
   m_EditorClassIdentifier: 
-  storyText: You exploded in the middle of the city and killed 17 people (you are
-    insane) Return your spirit to the forest and run into the forest.
+  storyText: '(Bad ending)
+
+    You exploded in the middle of the city and killed
+    17 people (you are insane) Return your spirit to the forest and run into the
+    forest.'
   nextStates: []
