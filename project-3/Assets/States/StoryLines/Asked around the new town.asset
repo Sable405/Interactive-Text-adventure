@@ -17,4 +17,4 @@ MonoBehaviour:
     on his lower half and up on his upper hald tearing him apart\n\n2. Ask him nicely"
   nextStates:
   - {fileID: 11400000, guid: d005aa552f4667144bcbd64e2b55a200, type: 2}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 46dc9dbea5b96f74eb5228abfeedf12d, type: 2}

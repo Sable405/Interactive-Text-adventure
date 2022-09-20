@@ -23,4 +23,4 @@ MonoBehaviour:
     2. Kill everyone by turning the earths gravity to go out'
   nextStates:
   - {fileID: 11400000, guid: 98040d7db62164b42836edaa469474da, type: 2}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: e9aa5a071491b7243923cb545bd90686, type: 2}

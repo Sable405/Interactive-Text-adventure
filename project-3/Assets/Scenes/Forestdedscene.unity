@@ -181,7 +181,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'You DIED after being eaten by a gru '
+  m_text: You entered the forest of spirits and you layed your spirit to rest
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 03244cbd348c92b4fb2c6fc3d2593708, type: 2}
   m_sharedMaterial: {fileID: 2148271377617156047, guid: 03244cbd348c92b4fb2c6fc3d2593708, type: 2}

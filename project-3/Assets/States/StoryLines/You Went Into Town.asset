@@ -17,5 +17,5 @@ MonoBehaviour:
     them to help find your hat\n\n3. Go to the store to gather supplies"
   nextStates:
   - {fileID: 11400000, guid: 78568fdacbdf1e54db39542b1031170f, type: 2}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: eaf7d455d00809d49b0b41c6c3860332, type: 2}
+  - {fileID: 11400000, guid: 4b9d809e6b6c1fb44ac8715b5942f94e, type: 2}
